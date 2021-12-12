@@ -8,4 +8,5 @@ public class ABC {
     private int sno;
     private String nameDemo;
     private int age;
+    private String namedede;
 }
