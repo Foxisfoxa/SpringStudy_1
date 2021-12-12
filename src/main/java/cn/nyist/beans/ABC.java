@@ -6,6 +6,6 @@ package cn.nyist.beans;
  */
 public class ABC {
     private int sno;
-    private String name;
+    private String nameDemo;
     private int age;
 }
