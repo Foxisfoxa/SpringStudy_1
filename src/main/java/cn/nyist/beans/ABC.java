@@ -9,4 +9,5 @@ public class ABC {
     private String nameDemo;
     private int age;
     private String namedede;
+    private String push;
 }
